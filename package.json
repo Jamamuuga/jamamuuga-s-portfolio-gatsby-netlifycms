@@ -171,7 +171,7 @@
     "netlify-cli": "^2.21.0",
     "netlify-cms-backend-fs": "^0.4.4",
     "netlify-lambda": "^1.6.3",
-    "postcss": "^7.0.23",
+    "postcss": "^7.0.36",
     "postcss-styled": "^0.34.0",
     "postcss-syntax": "^0.36.2",
     "prettier": "^1.19.1",
